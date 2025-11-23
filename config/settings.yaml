@@ -1,0 +1,3 @@
+input_file: "data/sample_data.xlsx"
+output_report: "data/summary_report.docx"
+frequency: "daily"  # or weekly

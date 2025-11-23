@@ -1,0 +1,4 @@
+data/*.xlsx
+reports/*.docx
+data/*.docx
+.env
