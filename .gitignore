@@ -1,4 +1,4 @@
 data/*.xlsx
-reports/*.docx
+report/*.docx
 data/*.docx
 .env
